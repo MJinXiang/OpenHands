@@ -1,0 +1,15 @@
+{
+  "finished": false,
+  "steps": 23,
+  "result": "Error occurred",
+  "result_files": {
+    "added_files": [
+      "README.md",
+      "TASKS.md",
+      "Car_Prices_Poland_Kaggle.csv",
+      "test.csv"
+    ],
+    "changed_files": []
+  },
+  "trajectory": []
+}

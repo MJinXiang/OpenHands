@@ -1,0 +1,509 @@
+,date,home_team,away_team,home_score,away_score,tournament
+0,1969-11-01,Italy,France,1,0,Euro
+1,1969-11-01,Denmark,England,4,3,Euro
+2,1969-11-02,England,France,2,0,Euro
+3,1969-11-02,Italy,Denmark,3,1,Euro
+4,1975-08-25,Thailand,Australia,3,2,AFC Championship
+5,1975-08-25,Hong Kong,New Zealand,0,2,AFC Championship
+6,1975-08-27,Thailand,Singapore,3,0,AFC Championship
+7,1975-08-27,New Zealand,Malaysia,3,0,AFC Championship
+8,1975-08-29,Australia,Singapore,3,0,AFC Championship
+9,1975-08-29,Hong Kong,Malaysia,0,2,AFC Championship
+10,1975-08-31,New Zealand,Australia,3,2,AFC Championship
+11,1975-08-31,Thailand,Malaysia,3,0,AFC Championship
+12,1975-09-02,Australia,Malaysia,5,0,AFC Championship
+13,1975-09-02,New Zealand,Thailand,3,1,AFC Championship
+14,1977-08-02,Taiwan,Indonesia,5,0,AFC Championship
+15,1977-08-03,Thailand,Singapore,2,0,AFC Championship
+16,1977-08-05,Indonesia,Japan,1,0,AFC Championship
+17,1977-08-05,Thailand,Hong Kong,5,0,AFC Championship
+18,1977-08-07,Taiwan,Japan,7,0,AFC Championship
+19,1977-08-07,Singapore,Hong Kong,1,0,AFC Championship
+20,1977-08-09,Taiwan,Singapore,3,0,AFC Championship
+21,1977-08-09,Thailand,Indonesia,2,1,AFC Championship
+22,1977-08-11,Singapore,Indonesia,2,0,AFC Championship
+23,1977-08-11,Taiwan,Thailand,1,0,AFC Championship
+24,1979-07-18,Italy,Northern Ireland,4,0,Euro
+25,1979-07-18,Denmark,France,3,1,Euro
+26,1979-07-19,England,Finland,3,1,Euro
+27,1979-07-19,Sweden,Wales,3,0,Euro
+28,1979-07-20,Northern Ireland,Norway,1,4,Euro
+29,1979-07-20,France,Scotland,0,0,Euro
+30,1979-07-21,Switzerland,Finland,1,1,Euro
+31,1979-07-21,Wales,Netherlands,0,2,Euro
+32,1979-07-22,Italy,Norway,2,1,Euro
+33,1979-07-22,Denmark,Scotland,2,0,Euro
+34,1979-07-23,England,Switzerland,2,0,Euro
+35,1979-07-23,Sweden,Netherlands,1,1,Euro
+36,1979-07-25,Italy,England,3,1,Euro
+37,1979-07-25,Denmark,Sweden,1,0,Euro
+38,1979-07-27,Sweden,England,0,0,Euro
+39,1979-07-28,Italy,Denmark,0,2,Euro
+40,1980-01-11,India S,Western Australia,2,0,AFC Championship
+41,1980-01-12,India N,Taiwan,0,5,AFC Championship
+42,1980-01-12,India S,Hong Kong,2,0,AFC Championship
+43,1980-01-13,Taiwan,Malaysia,2,0,AFC Championship
+44,1980-01-13,India N,Western Australia,0,3,AFC Championship
+45,1980-01-14,Western Australia,Malaysia,1,0,AFC Championship
+46,1980-01-14,India N,Hong Kong,1,0,AFC Championship
+47,1980-01-15,India S,Taiwan,0,0,AFC Championship
+48,1980-01-15,Hong Kong,Malaysia,2,1,AFC Championship
+49,1980-01-16,India S,India N,1,0,AFC Championship
+50,1980-01-16,Taiwan,Western Australia,2,0,AFC Championship
+51,1980-01-17,Taiwan,Hong Kong,3,0,AFC Championship
+52,1980-01-17,India N,Malaysia,0,3,AFC Championship
+53,1980-01-18,Hong Kong,Western Australia,1,0,AFC Championship
+54,1980-01-18,India S,Malaysia,0,0,AFC Championship
+55,1980-01-19,Taiwan,Western Australia,5,0,AFC Championship
+56,1980-01-19,India S,Hong Kong,3,1,AFC Championship
+57,1980-01-20,India S,Taiwan,0,2,AFC Championship
+58,1981-06-07,Hong Kong,Philippines,2,0,AFC Championship
+59,1981-06-07,Taiwan,Japan,1,0,AFC Championship
+60,1981-06-08,India,Singapore,5,0,AFC Championship
+61,1981-06-08,Thailand,Indonesia,3,0,AFC Championship
+62,1981-06-10,Hong Kong,Singapore,1,0,AFC Championship
+63,1981-06-10,India,Philippines,8,0,AFC Championship
+64,1981-06-11,Taiwan,Indonesia,10,0,AFC Championship
+65,1981-06-11,Thailand,Japan,2,0,AFC Championship
+66,1981-06-12,Hong Kong,India,0,0,AFC Championship
+67,1981-06-12,Singapore,Philippines,4,1,AFC Championship
+68,1981-06-13,Taiwan,Thailand,3,0,AFC Championship
+69,1981-06-13,Japan,Indonesia,1,0,AFC Championship
+70,1981-06-15,Thailand,India,1,0,AFC Championship
+71,1981-06-15,Hong Kong,Taiwan,0,1,AFC Championship
+72,1981-06-17,Hong Kong,India,0,2,AFC Championship
+73,1981-06-17,Thailand,Taiwan,0,5,AFC Championship
+74,1982-08-18,Finland,Sweden,0,6,UEFA Euro qualification
+75,1982-08-28,Norway,Iceland,2,2,UEFA Euro qualification
+76,1982-09-04,Northern Ireland,Scotland,1,2,UEFA Euro qualification
+77,1982-09-09,Iceland,Sweden,0,6,UEFA Euro qualification
+78,1982-09-15,Finland,Norway,0,3,UEFA Euro qualification
+79,1982-09-19,England,Northern Ireland,7,1,UEFA Euro qualification
+80,1982-09-19,Scotland,Republic of Ireland,3,0,UEFA Euro qualification
+81,1982-09-25,Belgium,Netherlands,3,2,UEFA Euro qualification
+82,1982-09-29,Sweden,Norway,2,0,UEFA Euro qualification
+83,1982-10-02,Northern Ireland,Republic of Ireland,1,2,UEFA Euro qualification
+84,1982-10-03,Scotland,England,0,4,UEFA Euro qualification
+85,1982-10-10,Switzerland,Portugal,2,0,UEFA Euro qualification
+86,1982-10-13,Netherlands,Denmark,2,1,UEFA Euro qualification
+87,1982-10-30,France,Italy,1,0,UEFA Euro qualification
+88,1982-11-06,Denmark,Belgium,1,0,UEFA Euro qualification
+89,1982-11-07,Republic of Ireland,England,0,1,UEFA Euro qualification
+90,1982-11-14,Italy,Portugal,3,0,UEFA Euro qualification
+91,1982-12-04,Portugal,France,0,0,UEFA Euro qualification
+92,1983-02-12,France,Portugal,2,0,UEFA Euro qualification
+93,1983-03-05,Germany,Belgium,1,1,UEFA Euro qualification
+94,1983-03-18,Republic of Ireland,Scotland,1,1,UEFA Euro qualification
+95,1983-03-19,Netherlands,Germany,2,2,UEFA Euro qualification
+96,1983-04-03,Portugal,Switzerland,1,1,UEFA Euro qualification
+97,1983-04-10,Thailand,Malaysia,8,0,AFC Championship
+98,1983-04-10,India,Philippines,5,0,AFC Championship
+99,1983-04-10,Singapore,Hong Kong,2,0,AFC Championship
+100,1983-04-11,Thailand,Singapore,3,0,AFC Championship
+101,1983-04-11,India,Hong Kong,1,0,AFC Championship
+102,1983-04-11,Malaysia,Philippines,1,0,AFC Championship
+103,1983-04-12,Singapore,Philippines,5,0,AFC Championship
+104,1983-04-12,Thailand,Hong Kong,4,0,AFC Championship
+105,1983-04-12,India,Malaysia,3,0,AFC Championship
+106,1983-04-14,Singapore,Malaysia,5,1,AFC Championship
+107,1983-04-14,Philippines,Hong Kong,2,0,AFC Championship
+108,1983-04-14,Thailand,India,2,1,AFC Championship
+109,1983-04-15,Thailand,Philippines,5,0,AFC Championship
+110,1983-04-15,Malaysia,Hong Kong,5,0,AFC Championship
+111,1983-04-15,India,Singapore,1,0,AFC Championship
+112,1983-04-17,Scotland,Northern Ireland,3,0,UEFA Euro qualification
+113,1983-04-17,Malaysia,Singapore,0,0,AFC Championship
+114,1983-04-17,Thailand,India,3,0,AFC Championship
+115,1983-04-23,Netherlands,Belgium,5,0,UEFA Euro qualification
+116,1983-04-24,Italy,France,3,0,UEFA Euro qualification
+117,1983-04-30,Germany,Denmark,1,1,UEFA Euro qualification
+118,1983-05-07,France,Switzerland,1,1,UEFA Euro qualification
+119,1983-05-14,Northern Ireland,England,0,4,UEFA Euro qualification
+120,1983-05-22,England,Scotland,2,0,UEFA Euro qualification
+121,1983-05-23,Switzerland,Italy,0,2,UEFA Euro qualification
+122,1983-06-08,Sweden,Finland,5,0,UEFA Euro qualification
+123,1983-06-24,Portugal,Italy,0,2,UEFA Euro qualification
+124,1983-07-30,Iceland,Norway,0,1,UEFA Euro qualification
+125,1983-08-18,Norway,Finland,3,0,UEFA Euro qualification
+126,1983-08-19,Belgium,Denmark,2,2,UEFA Euro qualification
+127,1983-08-21,Iceland,Finland,0,2,UEFA Euro qualification
+128,1983-08-24,Sweden,Iceland,5,0,UEFA Euro qualification
+129,1983-08-27,Finland,Iceland,3,0,UEFA Euro qualification
+130,1983-09-11,England,Republic of Ireland,6,0,UEFA Euro qualification
+131,1983-09-17,Italy,Switzerland,2,0,UEFA Euro qualification
+132,1983-09-24,Norway,Sweden,1,2,UEFA Euro qualification
+133,1983-09-24,Denmark,Germany,1,0,UEFA Euro qualification
+134,1983-10-08,Germany,Netherlands,1,1,UEFA Euro qualification
+135,1983-10-22,Belgium,Germany,1,1,UEFA Euro qualification
+136,1983-10-23,Republic of Ireland,Northern Ireland,3,2,UEFA Euro qualification
+137,1983-10-29,Switzerland,France,0,0,UEFA Euro qualification
+138,1983-10-29,Denmark,Netherlands,2,0,UEFA Euro qualification
+139,1983-11-28,New Caledonia,Fiji,2,0,OFC Championship
+140,1983-11-28,New Zealand,Australia,0,0,OFC Championship
+141,1983-11-30,New Caledonia,Australia,0,5,OFC Championship
+142,1983-11-30,New Zealand,Fiji,15,1,OFC Championship
+143,1983-12-02,Australia,Fiji,13,0,OFC Championship
+144,1983-12-02,New Caledonia,New Zealand,0,6,OFC Championship
+145,1983-12-04,New Zealand,Australia,3,2,OFC Championship
+146,1984-04-08,England,Denmark,2,1,UEFA Euro
+147,1984-04-08,Italy,Sweden,2,3,UEFA Euro
+148,1984-04-28,Denmark,England,0,1,UEFA Euro
+149,1984-04-28,Sweden,Italy,2,1,UEFA Euro
+150,1984-05-12,Sweden,England,1,0,UEFA Euro
+151,1984-05-27,England,Sweden,1,0,UEFA Euro
+152,1984-09-26,Finland,Norway,0,0,UEFA Euro qualification
+153,1984-10-03,Germany,Finland,1,0,UEFA Euro qualification
+154,1984-10-24,Denmark,Finland,1,1,UEFA Euro qualification
+155,1985-03-16,Netherlands,France,1,0,UEFA Euro qualification
+156,1985-03-17,England,Scotland,4,0,UEFA Euro qualification
+157,1985-04-27,Hungary,Spain,1,0,UEFA Euro qualification
+158,1985-05-01,Denmark,Germany,3,0,UEFA Euro qualification
+159,1985-05-04,Belgium,France,3,1,UEFA Euro qualification
+160,1985-05-05,Republic of Ireland,Northern Ireland,1,0,UEFA Euro qualification
+161,1985-05-11,Finland,Denmark,0,2,UEFA Euro qualification
+162,1985-05-25,Northern Ireland,England,1,7,UEFA Euro qualification
+163,1985-05-25,France,Sweden,0,4,UEFA Euro qualification
+164,1985-05-25,Hungary,Italy,2,3,UEFA Euro qualification
+165,1985-06-02,Scotland,Republic of Ireland,2,1,UEFA Euro qualification
+166,1985-06-11,Sweden,Netherlands,2,0,UEFA Euro qualification
+167,1985-06-25,Spain,Switzerland,0,2,UEFA Euro qualification
+168,1985-09-07,Germany,Norway,2,3,UEFA Euro qualification
+169,1985-09-14,Italy,Switzerland,3,0,UEFA Euro qualification
+170,1985-09-22,Republic of Ireland,England,0,6,UEFA Euro qualification
+171,1985-09-28,Belgium,Netherlands,1,3,UEFA Euro qualification
+172,1985-10-02,Norway,Denmark,2,2,UEFA Euro qualification
+173,1985-10-05,Finland,Germany,1,0,UEFA Euro qualification
+174,1985-10-09,Sweden,Belgium,5,0,UEFA Euro qualification
+175,1985-10-12,Switzerland,Hungary,1,2,UEFA Euro qualification
+176,1985-10-26,France,Netherlands,3,5,UEFA Euro qualification
+177,1985-11-03,Spain,Italy,2,3,UEFA Euro qualification
+178,1985-11-23,Northern Ireland,Scotland,1,9,UEFA Euro qualification
+179,1986-03-15,France,Belgium,3,1,UEFA Euro qualification
+180,1986-03-16,England,Northern Ireland,10,0,UEFA Euro qualification
+181,1986-03-29,New Zealand,Australia,0,1,OFC Championship
+182,1986-03-31,Taiwan,Australia,1,0,OFC Championship
+183,1986-04-02,New Zealand,Taiwan,1,2,OFC Championship
+184,1986-04-04,Taiwan,Australia,4,1,OFC Championship
+185,1986-04-05,Spain,Hungary,1,2,UEFA Euro qualification
+186,1986-04-27,England,Republic of Ireland,4,0,UEFA Euro qualification
+187,1986-05-03,Italy,Hungary,1,0,UEFA Euro qualification
+188,1986-05-17,Sweden,France,1,0,UEFA Euro qualification
+189,1986-05-19,Norway,Germany,0,0,UEFA Euro qualification
+190,1986-05-25,Scotland,Northern Ireland,7,0,UEFA Euro qualification
+191,1986-06-10,Switzerland,Spain,0,3,UEFA Euro qualification
+192,1986-08-30,Northern Ireland,Republic of Ireland,0,1,UEFA Euro qualification
+193,1986-09-10,Denmark,Norway,2,5,UEFA Euro qualification
+194,1986-09-20,Netherlands,Belgium,3,0,UEFA Euro qualification
+195,1986-09-28,Republic of Ireland,Scotland,1,5,UEFA Euro qualification
+196,1986-10-01,Belgium,Sweden,1,2,UEFA Euro qualification
+197,1986-10-04,Germany,Denmark,2,0,UEFA Euro qualification
+198,1986-10-04,Norway,Finland,2,0,UEFA Euro qualification
+199,1986-10-11,Hungary,Switzerland,1,1,UEFA Euro qualification
+200,1986-10-11,Italy,Spain,1,1,UEFA Euro qualification
+201,1986-10-12,Scotland,England,1,3,UEFA Euro qualification
+202,1986-10-18,Netherlands,Sweden,2,0,UEFA Euro qualification
+203,1986-11-01,Switzerland,Italy,1,2,UEFA Euro qualification
+204,1986-12-14,China PR,Japan,2,0,AFC Championship
+205,1986-12-14,Hong Kong,Nepal,1,0,AFC Championship
+206,1986-12-15,Thailand,Indonesia,4,0,AFC Championship
+207,1986-12-16,China PR,Malaysia,10,0,AFC Championship
+208,1986-12-17,Thailand,Nepal,5,0,AFC Championship
+209,1986-12-17,Hong Kong,Indonesia,0,1,AFC Championship
+210,1986-12-18,Japan,Malaysia,10,0,AFC Championship
+211,1986-12-19,Indonesia,Nepal,6,0,AFC Championship
+212,1986-12-19,Hong Kong,Thailand,0,2,AFC Championship
+213,1986-12-21,China PR,Indonesia,9,0,AFC Championship
+214,1986-12-21,Thailand,Japan,0,4,AFC Championship
+215,1986-12-23,Thailand,Indonesia,3,1,AFC Championship
+216,1986-12-23,China PR,Japan,2,0,AFC Championship
+217,1987-06-11,Norway,Italy,2,0,UEFA Euro
+218,1987-06-11,Sweden,England,3,2,UEFA Euro
+219,1987-06-13,Italy,England,2,1,UEFA Euro
+220,1987-06-14,Norway,Sweden,2,1,UEFA Euro
+221,1987-09-10,Finland,Norway,3,3,UEFA Euro qualification
+222,1987-09-30,Sweden,Netherlands,0,0,UEFA Euro qualification
+223,1987-10-07,Norway,Denmark,0,1,UEFA Euro qualification
+224,1987-10-07,Hungary,Germany,0,1,UEFA Euro qualification
+225,1987-10-11,Bulgaria,Spain,1,1,UEFA Euro qualification
+226,1987-10-18,Belgium,Czechoslovakia,1,1,UEFA Euro qualification
+227,1987-10-24,Belgium,France,0,2,UEFA Euro qualification
+228,1987-10-25,Finland,England,1,2,UEFA Euro qualification
+229,1987-11-07,Netherlands,Scotland,4,0,UEFA Euro qualification
+230,1987-11-08,England,Denmark,2,1,UEFA Euro qualification
+231,1987-11-08,Czechoslovakia,Spain,1,0,UEFA Euro qualification
+232,1987-11-14,Hungary,Switzerland,7,1,UEFA Euro qualification
+233,1987-11-15,Germany,Italy,3,0,UEFA Euro qualification
+234,1987-11-21,France,Bulgaria,5,0,UEFA Euro qualification
+235,1987-11-29,Republic of Ireland,Netherlands,0,1,UEFA Euro qualification
+236,1987-12-19,Spain,Belgium,1,0,UEFA Euro qualification
+237,1988-03-06,Spain,France,1,3,UEFA Euro qualification
+238,1988-03-12,Netherlands,Republic of Ireland,2,0,UEFA Euro qualification
+239,1988-03-20,Spain,Bulgaria,1,0,UEFA Euro qualification
+240,1988-04-02,Italy,Germany,0,0,UEFA Euro qualification
+241,1988-04-02,Czechoslovakia,Belgium,0,0,UEFA Euro qualification
+242,1988-04-03,Republic of Ireland,Scotland,2,1,UEFA Euro qualification
+243,1988-04-09,Bulgaria,Belgium,0,0,UEFA Euro qualification
+244,1988-04-24,France,Spain,0,0,UEFA Euro qualification
+245,1988-04-24,Bulgaria,Czechoslovakia,0,1,UEFA Euro qualification
+246,1988-04-30,Italy,Hungary,5,1,UEFA Euro qualification
+247,1988-05-07,Republic of Ireland,Sweden,1,1,UEFA Euro qualification
+248,1988-05-07,France,Czechoslovakia,2,2,UEFA Euro qualification
+249,1988-05-08,Denmark,England,2,0,UEFA Euro qualification
+250,1988-05-14,Germany,Switzerland,0,0,UEFA Euro qualification
+251,1988-05-14,Spain,Czechoslovakia,0,2,UEFA Euro qualification
+252,1988-05-22,France,Belgium,0,0,UEFA Euro qualification
+253,1988-05-26,Norway,Finland,0,2,UEFA Euro qualification
+254,1988-05-28,Denmark,Finland,3,1,UEFA Euro qualification
+255,1988-06-11,Switzerland,Hungary,3,0,UEFA Euro qualification
+256,1988-06-18,Italy,Switzerland,5,0,UEFA Euro qualification
+257,1988-08-21,Norway,England,2,0,UEFA Euro qualification
+258,1988-08-24,Finland,Denmark,1,2,UEFA Euro qualification
+259,1988-09-04,England,Finland,1,1,UEFA Euro qualification
+260,1988-09-04,Denmark,Norway,3,2,UEFA Euro qualification
+261,1988-09-17,Switzerland,Germany,0,10,UEFA Euro qualification
+262,1988-09-18,England,Norway,1,3,UEFA Euro qualification
+263,1988-09-18,Sweden,Republic of Ireland,4,0,UEFA Euro qualification
+264,1988-10-01
+[... Observation truncated due to length ...]
+,0,3,UEFA Euro qualification
+4643,2020-10-23,Scotland,Albania,3,0,UEFA Euro qualification
+4644,2020-10-23,Hungary,Slovakia,1,2,UEFA Euro qualification
+4645,2020-10-23,France,North Macedonia,11,0,UEFA Euro qualification
+4646,2020-10-23,Lithuania,Romania,0,4,UEFA Euro qualification
+4647,2020-10-23,Ukraine,Republic of Ireland,1,0,UEFA Euro qualification
+4648,2020-10-24,Serbia,Kazakhstan,4,1,UEFA Euro qualification
+4649,2020-10-27,Russia,Turkey,4,2,UEFA Euro qualification
+4650,2020-10-27,Kosovo,Netherlands,0,6,UEFA Euro qualification
+4651,2020-10-27,Georgia,Israel,1,2,UEFA Euro qualification
+4652,2020-10-27,Italy,Denmark,1,3,UEFA Euro qualification
+4653,2020-10-27,Moldova,Poland,0,3,UEFA Euro qualification
+4654,2020-10-27,Czech Republic,Azerbaijan,3,0,UEFA Euro qualification
+4655,2020-10-27,Finland,Scotland,1,0,UEFA Euro qualification
+4656,2020-10-27,Portugal,Cyprus,1,0,UEFA Euro qualification
+4657,2020-10-27,Slovakia,Latvia,2,0,UEFA Euro qualification
+4658,2020-10-27,Sweden,Iceland,2,0,UEFA Euro qualification
+4659,2020-10-27,Austria,France,0,0,UEFA Euro qualification
+4660,2020-10-27,Romania,Switzerland,0,2,UEFA Euro qualification
+4661,2020-10-27,Lithuania,Belgium,0,9,UEFA Euro qualification
+4662,2020-10-27,Greece,Ukraine,0,4,UEFA Euro qualification
+4663,2020-10-27,Wales,Norway,0,1,UEFA Euro qualification
+4664,2020-10-27,Belarus,Northern Ireland,0,1,UEFA Euro qualification
+4665,2020-11-20,Azerbaijan,Poland,0,5,UEFA Euro qualification
+4666,2020-11-20,Cyprus,Albania,0,2,UEFA Euro qualification
+4667,2020-11-20,Montenegro,Republic of Ireland,0,3,UEFA Euro qualification
+4668,2020-11-26,Georgia,Malta,0,4,UEFA Euro qualification
+4669,2020-11-26,Slovakia,Iceland,1,3,UEFA Euro qualification
+4670,2020-11-27,Netherlands,United States,0,2,Friendly
+4671,2020-11-27,Estonia,Turkey,0,4,UEFA Euro qualification
+4672,2020-11-27,Russia,Kosovo,3,0,UEFA Euro qualification
+4673,2020-11-27,Spain,Moldova,10,0,UEFA Euro qualification
+4674,2020-11-27,Albania,Cyprus,4,0,UEFA Euro qualification
+4675,2020-11-27,Portugal,Scotland,1,0,UEFA Euro qualification
+4676,2020-11-27,Kazakhstan,North Macedonia,0,3,UEFA Euro qualification
+4677,2020-11-27,France,Austria,3,0,UEFA Euro qualification
+4678,2020-11-27,Croatia,Lithuania,1,0,UEFA Euro qualification
+4679,2020-11-27,Germany,Greece,6,0,UEFA Euro qualification
+4680,2020-11-27,Northern Ireland,Belarus,3,2,UEFA Euro qualification
+4681,2020-12-01,Turkey,Russia,1,2,UEFA Euro qualification
+4682,2020-12-01,Slovenia,Estonia,2,0,UEFA Euro qualification
+4683,2020-12-01,Netherlands,Kosovo,6,0,UEFA Euro qualification
+4684,2020-12-01,Georgia,Bosnia and Herzegovina,0,3,UEFA Euro qualification
+4685,2020-12-01,Israel,Malta,0,2,UEFA Euro qualification
+4686,2020-12-01,Denmark,Italy,0,0,UEFA Euro qualification
+4687,2020-12-01,Czech Republic,Moldova,7,0,UEFA Euro qualification
+4688,2020-12-01,Portugal,Albania,1,0,UEFA Euro qualification
+4689,2020-12-01,Scotland,Finland,0,1,UEFA Euro qualification
+4690,2020-12-01,Hungary,Iceland,0,1,UEFA Euro qualification
+4691,2020-12-01,Slovakia,Sweden,0,6,UEFA Euro qualification
+4692,2020-12-01,Austria,Serbia,1,0,UEFA Euro qualification
+4693,2020-12-01,France,Kazakhstan,12,0,UEFA Euro qualification
+4694,2020-12-01,Belgium,Switzerland,4,0,UEFA Euro qualification
+4695,2020-12-01,Ukraine,Montenegro,2,1,UEFA Euro qualification
+4696,2020-12-01,Republic of Ireland,Germany,1,3,UEFA Euro qualification
+4697,2020-12-01,Northern Ireland,Faroe Islands,5,1,UEFA Euro qualification
+4698,2020-12-01,Wales,Belarus,3,0,UEFA Euro qualification
+4699,2021-01-19,United States,Colombia,4,0,Friendly
+4700,2021-01-23,United States,Colombia,6,0,Friendly
+4701,2021-02-18,Azerbaijan,Spain,0,13,UEFA Euro qualification
+4702,2021-02-19,United States,Canada,1,0,SheBelieves Cup
+4703,2021-02-19,Cyprus,Scotland,0,10,UEFA Euro qualification
+4704,2021-02-19,Finland,Portugal,1,0,UEFA Euro qualification
+4705,2021-02-22,United States,Brazil,2,0,SheBelieves Cup
+4706,2021-02-23,Estonia,Slovenia,0,9,UEFA Euro qualification
+4707,2021-02-23,Azerbaijan,Moldova,1,0,UEFA Euro qualification
+4708,2021-02-23,Spain,Poland,3,0,UEFA Euro qualification
+4709,2021-02-23,Scotland,Portugal,0,2,UEFA Euro qualification
+4710,2021-02-23,Cyprus,Finland,0,5,UEFA Euro qualification
+4711,2021-02-23,Croatia,Romania,0,1,UEFA Euro qualification
+4712,2021-02-24,Italy,Israel,12,0,UEFA Euro qualification
+4713,2021-02-25,United States,Argentina,6,0,SheBelieves Cup
+4714,2021-04-08,Argentina,Venezuela,0,0,Basque Country Women's Cup
+4715,2021-04-09,Ukraine,Northern Ireland,1,2,UEFA Euro qualification
+4716,2021-04-09,Portugal,Russia,0,1,UEFA Euro qualification
+4717,2021-04-09,Czech Republic,Switzerland,1,1,UEFA Euro qualification
+4718,2021-04-10,Sweden,United States,1,1,Friendly
+4719,2021-04-11,Argentina,Venezuela,1,0,Basque Country Women's Cup
+4720,2021-04-11,Basque Country,Argentina,1,0,Basque Country Women's Cup
+4721,2021-04-11,Basque Country,Venezuela,0,0,Basque Country Women's Cup
+4722,2021-04-13,Northern Ireland,Ukraine,2,0,UEFA Euro qualification
+4723,2021-04-13,Russia,Portugal,0,0,UEFA Euro qualification
+4724,2021-04-13,Switzerland,Czech Republic,1,1,UEFA Euro qualification
+4725,2021-04-14,France,United States,0,2,Friendly
+4726,2021-09-17,Mongolia,South Korea,0,12,AFC Asian Cup qualification
+4727,2021-09-18,Nepal,Philippines,1,2,AFC Asian Cup qualification
+4728,2021-09-19,Bangladesh,Jordan,0,5,AFC Asian Cup qualification
+4729,2021-09-19,Malaysia,Thailand,0,4,AFC Asian Cup qualification
+4730,2021-09-20,Uzbekistan,Mongolia,12,0,AFC Asian Cup qualification
+4731,2021-09-21,Hong Kong,Nepal,0,0,AFC Asian Cup qualification
+4732,2021-09-22,Iran,Bangladesh,5,0,AFC Asian Cup qualification
+4733,2021-09-22,Palestine,Malaysia,0,2,AFC Asian Cup qualification
+4734,2021-09-23,Maldives,Vietnam,0,16,AFC Asian Cup qualification
+4735,2021-09-23,Uzbekistan,South Korea,0,4,AFC Asian Cup qualification
+4736,2021-09-24,Singapore,Indonesia,0,1,AFC Asian Cup qualification
+4737,2021-09-24,Philippines,Hong Kong,2,1,AFC Asian Cup qualification
+4738,2021-09-25,Jordan,Iran,0,0,AFC Asian Cup qualification
+4739,2021-09-25,Palestine,Thailand,0,7,AFC Asian Cup qualification
+4740,2021-09-26,Tajikistan,Maldives,4,0,AFC Asian Cup qualification
+4741,2021-09-27,Indonesia,Singapore,1,0,AFC Asian Cup qualification
+4742,2021-09-29,Tajikistan,Vietnam,0,7,AFC Asian Cup qualification
+4743,2021-10-18,Laos,Taiwan,0,4,AFC Asian Cup qualification
+4744,2021-10-18,Myanmar,Lebanon,4,0,AFC Asian Cup qualification
+4745,2021-10-18,United Arab Emirates,Guam,2,1,AFC Asian Cup qualification
+4746,2021-10-18,Sierra Leone,Gambia,0,2,African Cup of Nations qualification
+4747,2021-10-20,Uganda,Ethiopia,2,0,African Cup of Nations qualification
+4748,2021-10-20,Kenya,South Sudan,8,0,African Cup of Nations qualification
+4749,2021-10-20,Eritrea,Burundi,0,5,African Cup of Nations qualification
+4750,2021-10-20,Malawi,Zambia,1,1,African Cup of Nations qualification
+4751,2021-10-20,Tanzania,Namibia,1,2,African Cup of Nations qualification
+4752,2021-10-20,Zimbabwe,Eswatini,3,1,African Cup of Nations qualification
+4753,2021-10-20,Angola,Botswana,1,5,African Cup of Nations qualification
+4754,2021-10-20,Mozambique,South Africa,0,7,African Cup of Nations qualification
+4755,2021-10-20,Algeria,Sudan,14,0,African Cup of Nations qualification
+4756,2021-10-20,Egypt,Tunisia,2,6,African Cup of Nations qualification
+4757,2021-10-20,Congo,Gabon,2,1,African Cup of Nations qualification
+4758,2021-10-20,Cameroon,Central African Republic,1,0,African Cup of Nations qualification
+4759,2021-10-20,Liberia,Senegal,1,2,African Cup of Nations qualification
+4760,2021-10-20,Mali,Guinea,2,2,African Cup of Nations qualification
+4761,2021-10-20,Guinea-Bissau,Mauritania,1,0,African Cup of Nations qualification
+4762,2021-10-20,Burkina Faso,Benin,2,1,African Cup of Nations qualification
+4763,2021-10-20,Nigeria,Ghana,2,0,African Cup of Nations qualification
+4764,2021-10-20,Niger,Ivory Coast,0,9,African Cup of Nations qualification
+4765,2021-10-21,Bahrain,Laos,0,0,AFC Asian Cup qualification
+4766,2021-10-21,Lebanon,United Arab Emirates,1,0,AFC Asian Cup qualification
+4767,2021-10-21,Guam,Myanmar,0,8,AFC Asian Cup qualification
+4768,2021-10-22,São Tomé and Príncipe,Togo,0,5,African Cup of Nations qualification
+4769,2021-10-23,Kenya,South Sudan,7,1,African Cup of Nations qualification
+4770,2021-10-23,Namibia,Tanzania,3,2,African Cup of Nations qualification
+4771,2021-10-24,Bahrain,Taiwan,0,2,AFC Asian Cup qualification
+4772,2021-10-24,Myanmar,United Arab Emirates,2,0,AFC Asian Cup qualification
+4773,2021-10-24,Guam,Lebanon,0,3,AFC Asian Cup qualification
+4774,2021-10-24,Cameroon,Central African Republic,2,0,African Cup of Nations qualification
+4775,2021-10-24,Benin,Burkina Faso,1,3,African Cup of Nations qualification
+4776,2021-10-24,Ghana,Nigeria,1,0,African Cup of Nations qualification
+4777,2021-10-25,Gambia,Sierra Leone,1,1,African Cup of Nations qualification
+4778,2021-10-25,Guinea,Mali,0,2,African Cup of Nations qualification
+4779,2021-10-25,Ivory Coast,Niger,11,0,African Cup of Nations qualification
+4780,2021-10-26,Ethiopia,Uganda,2,0,African Cup of Nations qualification
+4781,2021-10-26,Burundi,Eritrea,1,0,African Cup of Nations qualification
+4782,2021-10-26,Zambia,Malawi,3,2,African Cup of Nations qualification
+4783,2021-10-26,Eswatini,Zimbabwe,0,3,African Cup of Nations qualification
+4784,2021-10-26,Botswana,Angola,2,0,African Cup of Nations qualification
+4785,2021-10-26,South Africa,Mozambique,6,0,African Cup of Nations qualification
+4786,2021-10-26,Tunisia,Egypt,1,0,African Cup of Nations qualification
+4787,2021-10-26,Gabon,Congo,1,0,African Cup of Nations qualification
+4788,2021-10-26,Senegal,Liberia,6,0,African Cup of Nations qualification
+4789,2021-10-26,Mauritania,Guinea-Bissau,0,1,African Cup of Nations qualification
+4790,2022-01-20,China PR,Taiwan,4,0,AFC Asian Cup
+4791,2022-01-21,Australia,Indonesia,18,0,AFC Asian Cup
+4792,2022-01-21,Thailand,Philippines,0,1,AFC Asian Cup
+4793,2022-01-21,Japan,Myanmar,5,0,AFC Asian Cup
+4794,2022-01-21,South Korea,Vietnam,3,0,AFC Asian Cup
+4795,2022-01-23,Iran,China PR,0,7,AFC Asian Cup
+4796,2022-01-24,Philippines,Australia,0,4,AFC Asian Cup
+4797,2022-01-24,Indonesia,Thailand,0,4,AFC Asian Cup
+4798,2022-01-24,Myanmar,South Korea,0,2,AFC Asian Cup
+4799,2022-01-24,Vietnam,Japan,0,3,AFC Asian Cup
+4800,2022-01-26,Taiwan,Iran,5,0,AFC Asian Cup
+4801,2022-01-27,Australia,Thailand,2,1,AFC Asian Cup
+4802,2022-01-27,Philippines,Indonesia,6,0,AFC Asian Cup
+4803,2022-01-27,Japan,South Korea,1,1,AFC Asian Cup
+4804,2022-01-27,Vietnam,Myanmar,2,2,AFC Asian Cup
+4805,2022-01-30,Australia,South Korea,0,1,AFC Asian Cup
+4806,2022-01-30,Japan,Thailand,7,0,AFC Asian Cup
+4807,2022-01-30,China PR,Vietnam,3,1,AFC Asian Cup
+4808,2022-01-30,Taiwan,Philippines,1,1,AFC Asian Cup
+4809,2022-02-02,Thailand,Vietnam,0,2,AFC Asian Cup
+4810,2022-02-03,South Korea,Philippines,2,0,AFC Asian Cup
+4811,2022-02-03,China PR,Japan,2,2,AFC Asian Cup
+4812,2022-02-04,Taiwan,Thailand,3,0,AFC Asian Cup
+4813,2022-02-06,China PR,South Korea,3,2,AFC Asian Cup
+4814,2022-02-06,Vietnam,Taiwan,2,1,AFC Asian Cup
+4815,2022-02-16,Brazil,Netherlands,1,1,Tournoi de France
+4816,2022-02-16,France,Finland,5,0,Tournoi de France
+4817,2022-02-16,Denmark,Italy,0,1,Algarve Cup
+4818,2022-02-16,Portugal,Norway,2,0,Algarve Cup
+4819,2022-02-16,Burundi,Djibouti,6,1,African Cup of Nations qualification
+4820,2022-02-16,Zambia,Namibia,0,0,African Cup of Nations qualification
+4821,2022-02-16,Senegal,Mali,1,0,African Cup of Nations qualification
+4822,2022-02-16,Guinea-Bissau,Burkina Faso,0,6,African Cup of Nations qualification
+4823,2022-02-17,United States,Czech Republic,0,0,SheBelieves Cup
+4824,2022-02-17,Iceland,New Zealand,1,0,SheBelieves Cup
+4825,2022-02-17,Togo,Gabon,2,1,African Cup of Nations qualification
+4826,2022-02-18,Zimbabwe,Botswana,1,3,African Cup of Nations qualification
+4827,2022-02-18,South Africa,Algeria,2,0,African Cup of Nations qualification
+4828,2022-02-18,Tunisia,Equatorial Guinea,5,0,African Cup of Nations qualification
+4829,2022-02-18,Cameroon,Gambia,8,0,African Cup of Nations qualification
+4830,2022-02-18,Nigeria,Ivory Coast,2,0,African Cup of Nations qualification
+4831,2022-02-19,France,Brazil,2,1,Tournoi de France
+4832,2022-02-19,Finland,Netherlands,0,3,Tournoi de France
+4833,2022-02-20,United States,New Zealand,5,0,SheBelieves Cup
+4834,2022-02-20,Czech Republic,Iceland,1,2,SheBelieves Cup
+4835,2022-02-20,Italy,Norway,2,1,Algarve Cup
+4836,2022-02-20,Portugal,Sweden,0,4,Algarve Cup
+4837,2022-02-21,Burundi,Djibouti,5,0,African Cup of Nations qualification
+4838,2022-02-22,Brazil,Finland,0,0,Tournoi de France
+4839,2022-02-22,France,Netherlands,3,1,Tournoi de France
+4840,2022-02-22,Namibia,Zambia,1,1,African Cup of Nations qualification
+4841,2022-02-22,Mali,Senegal,1,0,African Cup of Nations qualification
+4842,2022-02-23,New Zealand,Czech Republic,0,0,SheBelieves Cup
+4843,2022-02-23,United States,Iceland,5,0,SheBelieves Cup
+4844,2022-02-23,Sweden,Italy,1,1,Algarve Cup
+4845,2022-02-23,Portugal,Norway,0,2,Algarve Cup
+4846,2022-02-23,Botswana,Zimbabwe,0,2,African Cup of Nations qualification
+4847,2022-02-23,Algeria,South Africa,1,1,African Cup of Nations qualification
+4848,2022-02-23,Equatorial Guinea,Tunisia,3,2,African Cup of Nations qualification
+4849,2022-02-23,Gabon,Togo,1,2,African Cup of Nations qualification
+4850,2022-02-23,Gambia,Cameroon,1,2,African Cup of Nations qualification
+4851,2022-02-23,Burkina Faso,Guinea-Bissau,1,0,African Cup of Nations qualification
+4852,2022-02-23,Ivory Coast,Nigeria,0,1,African Cup of Nations qualification
+4853,2022-07-06,England,Austria,1,0,UEFA Euro
+4854,2022-07-07,Norway,Northern Ireland,4,1,UEFA Euro
+4855,2022-07-11,Austria,Northern Ireland,2,0,UEFA Euro
+4856,2022-07-11,England,Norway,8,0,UEFA Euro
+4857,2022-07-15,England,Northern Ireland,5,0,UEFA Euro
+4858,2022-07-15,Austria,Norway,1,0,UEFA Euro
+4859,2022-07-08,Spain,Finland,4,1,UEFA Euro
+4860,2022-07-08,Germany,Denmark,4,0,UEFA Euro
+4861,2022-07-12,Denmark,Finland,1,0,UEFA Euro
+4862,2022-07-12,Germany,Spain,2,0,UEFA Euro
+4863,2022-07-16,Finland,Germany,0,3,UEFA Euro
+4864,2022-07-16,Denmark,Spain,0,1,UEFA Euro
+4865,2022-07-09,Portugal,Switzerland,2,2,UEFA Euro
+4866,2022-07-09,Netherlands,Sweden,1,1,UEFA Euro
+4867,2022-07-13,Sweden,Switzerland,2,1,UEFA Euro
+4868,2022-07-13,Netherlands,Portugal,3,2,UEFA Euro
+4869,2022-07-17,Switzerland,Netherlands,1,4,UEFA Euro
+4870,2022-07-17,Sweden,Portugal,5,0,UEFA Euro
+4871,2022-07-10,Belgium,Iceland,1,1,UEFA Euro
+4872,2022-07-10,France,Italy,5,1,UEFA Euro
+4873,2022-07-14,Italy,Iceland,1,1,UEFA Euro
+4874,2022-07-14,France,Belgium,2,1,UEFA Euro
+4875,2022-07-18,Iceland,France,1,1,UEFA Euro
+4876,2022-07-18,Italy,Belgium,0,1,UEFA Euro
+4877,2022-07-20,England,Spain,2,1,UEFA Euro
+4878,2022-07-21,Germany,Austria,2,0,UEFA Euro
+4879,2022-07-22,Sweden,Belgium,1,0,UEFA Euro
+4880,2022-07-23,France,Netherlands,1,0,UEFA Euro
+4881,2022-07-26,England,Sweden,4,0,UEFA Euro
+4882,2022-07-27,Germany,France,2,1,UEFA Euro
+4883,2022-07-31,England,Germany,2,1,UEFA Euro

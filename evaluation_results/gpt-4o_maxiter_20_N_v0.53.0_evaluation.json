@@ -1,0 +1,86 @@
+{
+  "num_results": 2,
+  "average_score": 0.0,
+  "average_finished": 0.5,
+  "results": [
+    {
+      "id": "ml-regression-014",
+      "task": "machine learning",
+      "result_type": "regression",
+      "hardness": "Hard",
+      "total_score": 0.0,
+      "finished": false,
+      "steps": 23,
+      "result": "Error occurred",
+      "added_files": [
+        "README.md",
+        "TASKS.md",
+        "Car_Prices_Poland_Kaggle.csv",
+        "test.csv"
+      ],
+      "changed_files": [],
+      "actions": []
+    },
+    {
+      "id": "data-sa-001",
+      "task": "statistical analysis",
+      "result_type": "csv",
+      "hardness": "Hard",
+      "total_score": 0.0,
+      "finished": true,
+      "steps": 19,
+      "result": "Task completed",
+      "added_files": [
+        "result.csv",
+        "README.md",
+        "TASKS.md",
+        "sample_result.csv",
+        "women_results.csv",
+        "men_results.csv"
+      ],
+      "changed_files": [],
+      "actions": [],
+      "info": []
+    }
+  ],
+  "statistics": {
+    "by_type": {
+      "score": {
+        "machine learning": 0.0,
+        "statistical analysis": 0.0
+      },
+      "finished": {
+        "machine learning": 0.0,
+        "statistical analysis": 1.0
+      }
+    },
+    "by_hardness": {
+      "score": {
+        "Hard": 0.0
+      },
+      "finished": {
+        "Hard": 0.5
+      }
+    },
+    "by_big_type": {
+      "score": {
+        "EDA": 0.0,
+        "machine learning": 0.0
+      },
+      "finished": {
+        "EDA": 1.0,
+        "machine learning": 0.0
+      }
+    },
+    "by_result_type": {
+      "score": {
+        "csv": 0.0,
+        "regression": 0.0
+      },
+      "finished": {
+        "csv": 1.0,
+        "regression": 0.0
+      }
+    }
+  }
+}

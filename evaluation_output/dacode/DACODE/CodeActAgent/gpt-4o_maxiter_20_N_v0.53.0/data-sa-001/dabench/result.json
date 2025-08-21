@@ -1,0 +1,16 @@
+{
+  "finished": true,
+  "steps": 16,
+  "result": "Task completed successfully",
+  "result_files": {
+    "added_files": [
+      "result.csv",
+      "men_results.csv",
+      "README.md",
+      "women_results.csv",
+      "sample_result.csv"
+    ],
+    "changed_files": []
+  },
+  "trajectory": []
+}
