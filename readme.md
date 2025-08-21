@@ -140,3 +140,61 @@ enable_browsing = false
 # 运行简单任务
 poetry run python -m openhands.core.main -t "write a hello world script in Python"
 ```
+
+
+# 评估
+
+## DA-Code
+将数据文件放在evaluation/benchmarks/dacode/data下面
+```bash
+data/
+├── configs/
+├── gold/
+└── source/
+```
+
+```bash
+[llm]
+# IMPORTANT: add your API key here, and set the model to the one you want to evaluate
+model = "gpt-4o-2024-05-13"
+api_key = "sk-XXX"
+
+[llm.eval_gpt4_1106_preview_llm]
+model = "gpt-4-1106-preview"
+api_key = "XXX"
+temperature = 0.0
+
+[llm.eval_some_openai_compatible_model_llm]
+model = "openai/MODEL_NAME"
+base_url = "https://OPENAI_COMPATIBLE_URL/v1"
+api_key = "XXX"
+temperature = 0.0
+
+#在config.toml中修改这个部分，在评估的时候只会用到这部分参数，其他的不会使用
+[llm.gpt4o-eval]
+model = "gpt-4o"
+api_key = ""
+base_url = ""
+temperature = 0.0
+top_p = 1.0
+```
+
+#### 运行第一个任务
+```bash
+bash evaluation/benchmarks/dacode/scripts/run_infer.sh llm.gpt4o-eval "" CodeActAgent 1
+```
+
+#### 运行前5个任务
+```bash
+bash evaluation/benchmarks/dacode/scripts/run_infer.sh llm.gpt4o-eval "" CodeActAgent 5
+```
+
+#### 跳过前3个任务，运行接下来的2个任务
+```bash
+bash evaluation/benchmarks/dacode/scripts/run_infer.sh llm.gpt4o-eval "" CodeActAgent 2 1 "" 3
+```
+
+#### 运行特定的任务
+```bash
+bash evaluation/benchmarks/dacode/scripts/run_infer.sh llm.gpt4o-eval "" CodeActAgent 0 1 "data-sa-001 plot-bar-015 di-csv-001"
+```
